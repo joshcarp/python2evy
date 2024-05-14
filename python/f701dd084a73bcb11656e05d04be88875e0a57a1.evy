@@ -1,0 +1,9 @@
+func test_abs
+    //" Unit test for abs() "
+    failure := false
+    if !failure
+        print ("SUCESS")
+    end
+end
+print ("Testing abs()...")
+test_abs

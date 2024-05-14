@@ -1,0 +1,7 @@
+for num_ := range 1 51 
+    if (((num_ % 3) == 0) and ((num_ % 5) == 0))
+        print ("fizzbuzz")
+    else if (((num_ % 3) == 0) and ((num_ % 5) != 0))
+        print ("fizz")
+    end
+end
