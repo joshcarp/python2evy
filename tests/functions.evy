@@ -1,16 +1,16 @@
-main(){
-
-}
-
-greet(name){
-
-}
-
-concat(a, b){
-
-}
-
-calculateArea(length, width){
-
-}
-
+func greet name:string
+    print ("Hello,") (name)
+end
+greet ("Alice")
+func concat:string  a:string  b:string
+    return (a + b)
+end
+a := "foo"
+b := "bar"
+print (concat (a) (b))
+func calculate_area length:num  width_:num
+    area := (length * width_)
+    return area
+end
+result := calculate_area (5) (8)
+print ("Area of the rectangle:") (result)

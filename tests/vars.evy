@@ -1,4 +1,5 @@
-main(){
-
-}
-
+message := "Hello, Python!"
+counter := 42
+price := 19.99
+is_active := true
+print (message) (counter) (price) (is_active)
