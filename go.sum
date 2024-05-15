@@ -1,0 +1,4 @@
+evylang.dev/evy v0.1.96 h1:uYZiRnMeIxe89TU3pSgG3EdynpiE88ULCI/m02pEUds=
+evylang.dev/evy v0.1.96/go.mod h1:2G2zgMB+TPHAn2hjlXG9S95B8RZaLXvzLRcVDEGIPNM=
+github.com/alecthomas/kong v0.8.1 h1:acZdn3m4lLRobeh3Zi2S2EpnXTd1mOL6U7xVml+vfkY=
+github.com/alecthomas/kong v0.8.1/go.mod h1:n1iCIO2xS46oE8ZfYCNDqdR0b0wZNrXAIAqro/2132U=
